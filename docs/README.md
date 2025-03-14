@@ -1,43 +1,55 @@
-# My Portfolio
+# 🏆 Welcome to My Portfolio
 
-🚀 Welcome to my portfolio! Below are some of my featured projects.
+👋 Hi, I'm **Luke Read**! I'm a **software engineer** and **AI researcher** passionate about building innovative solutions in **C, Java, Python**, and more. This portfolio showcases my key projects across different domains.
 
----
-
-## 🚁 [Web Loggers in HTML/CSS/JavaScript](#/projects/web_loggers.md)
-![Web Loggers in HTML/CSS/JavaScript](assets/midspan_logger.png)
-
-🔹 **Description:** A short overview of what the project does.  
-🔹 **Tech Stack:** Python, Flask, PostgreSQL  
-🔹 **[View Source Code](https://github.com/your-username/project1)**
+🔗 [GitHub Profile](https://github.com/Lord-of-Aoili) | 📫 [Contact Me](mailto:readaluke@gmail.com)
 
 ---
 
-## 🖥️ [Virtual Machine in C](#/projects/virtual_machine_in_C.md)
-![Virtual Machine in C](<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_0lU9sIuLnQ&ab_channel=LukeRead" frameborder="0" allowfullscreen></iframe>) 
+## 📌 Featured Projects
 
-🔹 **Description:** A game built with JavaFX.  
-🔹 **Tech Stack:** Java, Gradle, JavaFX  
-🔹 **[View Source Code](https://github.com/your-username/project2)**
+### **⚡ Power Line Fault Logger**  
+📜 *A Node.js web-based tool for logging power line faults efficiently with CSV storage and REST APIs.*  
+[🔗 View Project](projects/web_loggers.md)
 
----
-
-## 👻 [Pacman in Java](#/projects/pacman_in_Java.md)
-![Pacman in Java](<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_0lU9sIuLnQ&ab_channel=LukeRead" frameborder="0" allowfullscreen></iframe>) 
-
-🔹 **Description:** A game built with JavaFX.  
-🔹 **Tech Stack:** Java, Gradle, JavaFX  
-🔹 **[View Source Code](https://github.com/your-username/project2)**
+![Power Line Logger](assets/logger-thumbnail.png)
 
 ---
 
-## 🐉 [Card Finder in Python](#/projects/card_finder_in_Python.md)
-![Card Finder in Python](<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_0lU9sIuLnQ&ab_channel=LukeRead" frameborder="0" allowfullscreen></iframe>) 
+### **🕹️ Pac-Man (JavaFX)**  
+🎮 *A Java-based Pac-Man game with enhanced AI-driven ghosts and power-ups, following OOP design patterns.*  
+[🔗 View Project](projects/pacman_in_Java.md)
 
-🔹 **Description:** A game built with JavaFX.  
-🔹 **Tech Stack:** Java, Gradle, JavaFX  
-🔹 **[View Source Code](https://github.com/your-username/project2)**
+![Pac-Man](assets/pacman-thumbnail.png)
 
 ---
 
-📌 Check out more in the [Projects](#/projects/project1) section!
+### **🖥️ Virtual Machine (C)**  
+💾 *A RISC-V-inspired Virtual Machine written in C, capable of executing machine instructions and managing memory dynamically.*  
+[🔗 View Project](projects/virtual_machine_in_C.md)
+
+![Virtual Machine](assets/vm-thumbnail.png)
+
+---
+
+### **🐉 Card Finder (Python) (Work in Progress)**
+🃏 *A Python-based card detection and analysis tool.*  
+🚧 *Currently in development—stay tuned!*
+
+---
+
+## 🛠️ Skills & Technologies
+✅ **Languages:** C, Java, Python, JavaScript  
+✅ **Frameworks & Tools:** JavaFX, Docsify, Express.js, Node.js, Docker  
+✅ **Concepts:** AI, Virtual Machines, OOP, Design Patterns, Data Structures  
+
+---
+
+## 📫 Get in Touch  
+If you're interested in my work or have any questions, feel free to reach out!  
+📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+🔗 GitHub: [github.com/your-username](https://github.com/your-username)
+
+---
+
+🔄 **[View All Projects](#projects)**
