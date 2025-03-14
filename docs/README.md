@@ -13,7 +13,7 @@
 
 ---
 
-## 🖥️ [Virtual Machine in C](#/projects/project2)
+## 🖥️ [Virtual Machine in C](#/projects/virtual_machine_in_C.md)
 ![Virtual Machine in C](<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_0lU9sIuLnQ&ab_channel=LukeRead" frameborder="0" allowfullscreen></iframe>) 
 
 🔹 **Description:** A game built with JavaFX.  
@@ -22,7 +22,7 @@
 
 ---
 
-## 👻 [Pacman in Java](#/projects/project2)
+## 👻 [Pacman in Java](#/projects/pacman_in_Java.md)
 ![Pacman in Java](<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_0lU9sIuLnQ&ab_channel=LukeRead" frameborder="0" allowfullscreen></iframe>) 
 
 🔹 **Description:** A game built with JavaFX.  
@@ -31,7 +31,7 @@
 
 ---
 
-## 🐉 [Card Finder in Python](#/projects/project2)
+## 🐉 [Card Finder in Python](#/projects/card_finder_in_Python.md)
 ![Card Finder in Python](<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_0lU9sIuLnQ&ab_channel=LukeRead" frameborder="0" allowfullscreen></iframe>) 
 
 🔹 **Description:** A game built with JavaFX.  
