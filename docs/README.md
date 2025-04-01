@@ -1,6 +1,6 @@
 # 🏆 Welcome to My Portfolio
 
-👋 Hi, I'm **Luke Read**! I'm a **software engineer** and **AI researcher** passionate about building innovative solutions in **C, Java, Python**, and more. This portfolio showcases my key projects across different domains.
+👋 Hi, I'm **Luke Read**! I'm a **software engineer** passionate about building innovative solutions in **C, Java, Python**, and more. This portfolio showcases my key projects across different domains.
 
 🔗 [GitHub Profile](https://github.com/Lord-of-Aoili) | 📫 [Contact Me](mailto:readaluke@gmail.com)
 
@@ -52,4 +52,4 @@ If you're interested in my work or have any questions, feel free to reach out!
 
 ---
 
-🔄 **[View All Projects](#projects)**
+🔄 **[View All Projects](#📌-featured-projects)**
