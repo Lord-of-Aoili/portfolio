@@ -47,8 +47,8 @@
 
 ## 📫 Get in Touch  
 If you're interested in my work or have any questions, feel free to reach out!  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🔗 GitHub: [github.com/your-username](https://github.com/your-username)
+📧 Email: [readaluke@gmail.com](mailto:readaluke@gmail.com)  
+🔗 GitHub: [github.com/Lord-of-Aoili](https://github.com/Lord-of-Aoili)
 
 ---
 
