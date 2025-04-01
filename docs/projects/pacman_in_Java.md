@@ -12,7 +12,7 @@ This is a **JavaFX-based Pac-Man game**, implemented as part of an **Object-Orie
 This project emphasizes **OOP principles, software design patterns, and clean architecture**.
 
 🔗 **Live Demo:** *(if applicable)*  
-📜 **Source Code:** [GitHub Repository](https://github.com/your-username/pacman-game)
+📜 **Source Code:** [GitHub Repository](https://github.com/Lord-of-Aoili/pacman-javafx)
 
 ---
 
@@ -49,7 +49,7 @@ Each ghost uses **AI-driven movement logic** to dynamically respond to Pac-Man�
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/pacman-game.git
+git clone https://github.com/Lord-of-Aoili/pacman-javafx
 cd pacman-game
 ```
 
@@ -107,5 +107,5 @@ This project is licensed under the MIT License.
 ---
 
 ## 🔗 Related Links
-- 🔗 [GitHub Repository](https://github.com/your-username/pacman-game)
+- 🔗 [GitHub Repository](https://github.com/Lord-of-Aoili/pacman-javafx)
 

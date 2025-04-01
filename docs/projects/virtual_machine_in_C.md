@@ -11,7 +11,7 @@ This project is a **C-based Virtual Machine (VM)** that interprets a **simplifie
 - **Heap Allocation:** Uses a **linked list-based allocator** for dynamic memory.
 - **Basic Debugging Features:** Dumps registers and memory when requested.
 
-📜 **Source Code:** [GitHub Repository](https://github.com/your-username/vm-riscv)
+📜 **Source Code:** [GitHub Repository](https://github.com/Lord-of-Aoili/riscv-vm-in-c)
 
 ---
 
@@ -19,7 +19,7 @@ This project is a **C-based Virtual Machine (VM)** that interprets a **simplifie
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/vm-riscv.git
+git clone https://github.com/Lord-of-Aoili/riscv-vm-in-c
 cd vm-riscv
 ```
 
@@ -107,5 +107,5 @@ This project is licensed under the MIT License.
 ---
 
 ## 🔗 Related Links
-- 🔗 [GitHub Repository](https://github.com/your-username/vm-riscv)
+- 🔗 [GitHub Repository](https://github.com/Lord-of-Aoili/riscv-vm-in-c)
 

@@ -26,13 +26,13 @@ The frontend is a clean, structured UI built with **HTML, CSS, and JavaScript**,
         frameborder="0" allowfullscreen>
     </iframe>
 </div>
-📜 **Source Code:** [GitHub Repository](https://github.com/your-username/logger-app)
+📜 **Source Code:** [GitHub Repository](https://github.com/Lord-of-Aoili/powerline-fault-logger)
 
 ## 🔧 Installation & Setup
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/logger-app.git
+git clone https://github.com/Lord-of-Aoili/powerline-fault-logger
 cd logger-app
 ```
 
@@ -109,5 +109,5 @@ fault-logger/
 This project is licensed under the MIT License.
 
 ## 🔗 Related Links
-- 🔗 [GitHub Repository](https://github.com/your-username/logger-app)
+- 🔗 [GitHub Repository](https://github.com/Lord-of-Aoili/powerline-fault-logger)
 
